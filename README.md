@@ -6,8 +6,6 @@ Arteliê Online
 Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em Desenvolvimento de Sistemas para a Internet Integrado ao Ensino Médio do IFC - Campus Araquari.
 Loja Virtual(site de vendas) de itens relacionados a arte.
 
-**IMPORTANTE**: [**Cadastre seu projeto nesse link**](https://docs.google.com/spreadsheets/d/1KXuMJ9TK7GPyahR_BfLwfn4ec7vX7DgiHx42vFc4E7g/edit?usp=sharing).
-
 Professor: [Marco André Mendes](github.com/marcoandre)
 
 Equipe:
@@ -17,14 +15,9 @@ Equipe:
 - [Nicolas Steffens Pereira](github.com/SPNicolas)
 
 Links do projeto:
-(*Coloque aqui os links para a documentação do projeto e os repositórios e plubicação do backend e frontend.*)
--   [Documentação (esse documento)](github.com/marcoandre/pi-modelo)
+-   [Documentação](github.com/marcoandre/pi-modelo)
 -   Backend: [Repositório](github.com/marcoandre/pi-backend) e [Publicação](https://pi-backend.herokuapp.com/)
 -   Frontend: [Repositório](github.com/marcoandre/pi-frontend) e [Publicação](https://pi-frontend.herokuapp.com/)
-
-**Como usar esse modelo para o Projeto Integrador**
-
-*(Essa parte pode ser apagada depois.)*
 
 1. Faça um fork desse repositório para a sua conta do GitHub.
 2. Clone o repositório para o seu computador.

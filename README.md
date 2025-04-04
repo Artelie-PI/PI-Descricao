@@ -38,30 +38,14 @@ Links do projeto:
 
 **1.1.1 Ponto de Vendas (PDV)**
 
-**Gerenciamento de vendas para uma padaria**
+**Loja Virtual para Itens Artistícos e afins**
 
-O nosso cliente, Sr. Genival, tem uma padaria de bairro chamada padaria Pão Genial e, devido a qualidade de seus produtos, ela está crescendo rapidamente. Recentemente, ele contratou mais funcionários para atendimento, caixa, panificação, etc.
-Assim, atualmente, ele consegue concentrar seus esforços para melhorar a gestão da padaria. Para isso, ele quer instalar um sistema de controle de vendas que permita ao caixa lançar as vendas realizadas. Como sua intenção
-é melhorar a gestão do negócio, é muito importante que ele consiga ter
-relatórios, como por exemplo, de vendas.
+O Artelie Online será uma loja virtual dedicada exclusivamente à venda de produtos artísticos e itens relacionados a um ateliê de arte. A plataforma permitirá a venda de pinturas, quadrinhos, tintas, materiais de arte e acessórios, oferecendo uma experiência de compra prática e segura. Os clientes poderão navegar por categorias de produtos, realizar buscas avançadas por tipo de arte ou preço, e efetuar compras com facilidade, com opções de pagamento seguras e envio para toda Santa Catarina. O Artelie Online será o destino perfeito para quem deseja adquirir peças de arte e materiais exclusivos, proporcionando uma vivência única aos apreciadores da arte e aos entusiastas do universo artístico.
 
-**1.1.2 Empréstimo**
-
-**Gerenciamento de uma biblioteca**
-
-Uma ONG, chamada Sala Arco Íris, ajuda crianças de baixa renda em sua educação básica. Atualmente, recebeu uma doação de mais de 1000 livros e está montando a sua biblioteca. Eles querem emprestar os livros para as crianças e os pais das crianças. Apesar de
-terem um computador e as estantes necessárias à disposição nessa nova biblioteca, não possuem verba suficiente para um leitor de impressão digital ou para produção
-de carteirinhas para todas as crianças. Para isso, eles precisam de um sistema que gerencie todo o acervo, empréstimos, livros disponíveis, etc. mas que isso ocorra de maneira simples e sem necessidade de novos gastos. Também é importante que haja relatórios, permitindo o controle dos empréstimos e dos livros disponíveis no acervo.
-
-**1.1.3 Ordem de Serviço (O.S.)**
-
-**Manutenção de computadores**
-
-Sr. Sálvio, nosso cliente, fez um curso de manutenção de celulares e smartphones e decidiu abrir um negócio no qual ele é responsável pelos consertos e sua esposa, Marília, realiza o atendimento aos clientes. Com sua visão empreendedora, ele sentiu a necessidade de um software que auxilie sua esposa nas tarefas diárias. Para isso, ele deseja um sistema que gerencie os clientes, orçamentos, serviços e retirada dos equipamentos. Sendo um negócio pequeno, é muito importante para ele conseguir ter relatórios que o ajudem na gestão da empresa, como o status dos serviços.
 
 # 2. Situação Problema
 
-*(Nessa parte a equipe deve descrever a situação problema que será resolvida pelo sistema. O texto abaixo descreve o que essa etapa deve conter e pode ser apagado depois.)*
+O principal problema enfrentado no mercado de arte é a dificuldade de encontrar recursos artísticos e materiais de arte disponíveis para venda de forma acessível e centralizada. Artistas e consumidores muitas vezes se deparam com a escassez de plataformas digitais que reúnam uma ampla variedade de obras de arte e materiais de qualidade, tornando a busca por esses itens mais difícil e fragmentada. Além disso, muitos artistas, especialmente os independentes, têm dificuldades em comercializar suas obras, enquanto os consumidores encontram obstáculos na hora de adquirir peças ou produtos específicos para suas necessidades criativas. A falta de um mercado digital eficiente e especializado dificulta o acesso a esses recursos essenciais, impactando tanto os criadores quanto os apreciadores da arte.
 
 ![Ciclo da Venda](docs/ciclo_da_venda.webp "Ciclo da Venda")
 
@@ -82,20 +66,15 @@ Seguindo essas dicas, você deve ser capaz de descrever o dia-a-dia da empresa s
 -   **Situação-problema**: Aborde em detalhes como a empresa funciona, procurando seguir uma ordem lógica dos acontecimentos e organizando parágrafos diferentes para cada coisa diferente que for explicar (como faria em uma redação);
 -   **Conclusão**: tenha um parágrafo de conclusão focando nos problemas que você notou dentro da situação problema analisada e aponte brevemente como um software poderia ajudar a resolvê-los.
 
+-   Não se baseamos em alguma empresa. A "nossa" empresa é ficticia.
+
 # 3. Descrição da proposta
 
-Após entender o problema, proponha uma solução que será útil nos aspectos de dificuldade encontrados. Assim, aqui você deverá **explicar de maneira resumida, e preferencialmente mais textual, como o software funcionará**. Pense nesse texto como uma **introdução ao seu cliente** do que você pretende fazer por ele, para que ele confirme se realmente está dentro do desejado e permita sua continuidade.
+O Artelie Online será uma loja virtual dedicada à venda de produtos artísticos, focada em resolver a dificuldade de encontrar e adquirir obras de arte e materiais relacionados. O sistema permitirá que seja comercializada obras de arte, como pinturas, quadrinhos, materiais e ferramentas artísticas, como tintas, pincéis, e acessórios para ateliê. O foco do software será oferecer uma experiência de compra simples, segura e intuitiva para os consumidores, centralizando esses recursos em um único local online.
 
-**Alguns pontos importantes a se destacar são:**
+O sistema terá dois níveis principais de usuários: administradores e clientes. O administrador, responsável pela gestão da plataforma, terá acesso para cadastrar, editar e remover produtos, gerenciar pedidos e acompanhar o desempenho da loja. Já o cliente terá a capacidade de navegar pelos produtos, adicionar itens ao carrinho, finalizar compras e acompanhar seus pedidos.
 
--   **Qual o foco de ação do software** relacionado com os problemas levantados na análise da situação-problema. O que realmente o software vai fazer. Por exemplo, o foco de ação do Gmail é permitir o envio e recebimento de e-mails.
--   **Os níveis de usuário do sistema**. Somente o gestor tem acesso? E os funcionários? Talvez seja para ambos, ou para funcionários de cargos
-    diferentes, etc.
--   **O que poderá ser feito no software**.Apenas o principal, sem pensar em telas ou detalhes específicos, pois isso será feito em outro momento.
--   **Se houver mais de um nível de usuário**, ressaltar as diferenças entre eles na descrição da proposta.
-
-Tenha em mente que essa é uma etapa relativamente breve. Não é necessário um texto gigantesco, apenas dar uma noção do funcionamento do sistema. Mais adiante
-precisaremos ser bem detalhistas, todavia agora a intenção é apenas fazer algo que permita ao cliente nos dizer se estamos no caminho certo.
+O software se concentrará em facilitar a busca e a compra de produtos artísticos, permitindo que o cliente filtre por categorias, como tipo de arte, preço ou material, e também terá um processo de pagamento simples e seguro.
 
 # 4. Modelagem de Dados
 

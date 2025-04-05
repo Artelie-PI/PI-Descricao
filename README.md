@@ -32,10 +32,6 @@ O Artelie Online será uma loja virtual dedicada exclusivamente à venda de prod
 
 O principal problema enfrentado no mercado de arte é a dificuldade de encontrar recursos artísticos e materiais de arte disponíveis para venda de forma acessível e centralizada. Artistas e consumidores muitas vezes se deparam com a escassez de plataformas digitais que reúnam uma ampla variedade de obras de arte e materiais de qualidade, tornando a busca por esses itens mais difícil e fragmentada. Além disso, muitos artistas, especialmente os independentes, têm dificuldades em comercializar suas obras, enquanto os consumidores encontram obstáculos na hora de adquirir peças ou produtos específicos para suas necessidades criativas. A falta de um mercado digital eficiente e especializado dificulta o acesso a esses recursos essenciais, impactando tanto os criadores quanto os apreciadores da arte.
 
-![Ciclo da Venda](docs/ciclo_da_venda.webp "Ciclo da Venda")
-
-**Conclusão**: tenha um parágrafo de conclusão focando nos problemas que você notou dentro da situação problema analisada e aponte brevemente como um software poderia ajudar a resolvê-los.
-
 -   Não se baseamos em alguma empresa. A "nossa" empresa é ficticia.
 
 # 3. Descrição da proposta

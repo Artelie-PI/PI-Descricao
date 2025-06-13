@@ -44,7 +44,7 @@ O software se concentrará em facilitar a busca e a compra de produtos artístic
 
 # 4. Modelagem de Dados
 
-![modelagem](modelagem.png)
+![modelagem]()
 
 
 # 4. Regras de negócio
